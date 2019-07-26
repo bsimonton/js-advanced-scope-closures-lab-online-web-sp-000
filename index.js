@@ -48,5 +48,3 @@ function produceDrivingRange(range){
 
 
 
-
-
