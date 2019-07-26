@@ -27,7 +27,7 @@ function produceDrivingRange(range){
   
   return function(start, end){
     
-    let distance = 
+    let distance = math.Abs(parseInt(end) - parseInt(start))
   }
   
   
