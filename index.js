@@ -25,6 +25,11 @@ function createDriver(){
 
 function produceDrivingRange(range){
   
+  return function(start, end){
+    
+    
+  }
+  
   
   
   
