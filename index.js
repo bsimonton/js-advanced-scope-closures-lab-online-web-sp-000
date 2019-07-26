@@ -29,7 +29,7 @@ function produceDrivingRange(range){
     
     let distance = Math.abs(parseInt(end) - parseInt(start));
     
-    if 
+    if (range - distance > 0)
   }
   
   
