@@ -23,6 +23,15 @@ function createDriver(){
 }
 
 
+function produceDrivingRange(){
+  
+  
+  
+  
+  
+  
+}
+
 
 
 
